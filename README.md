@@ -1,0 +1,2 @@
+# ArraysExercise
+Arrays Exercise 
