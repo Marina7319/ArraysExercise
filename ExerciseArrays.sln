@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. TopIntegers", "5. TopInt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. EqualSums", "6. EqualSums\6. EqualSums.csproj", "{2691E15B-6652-4158-8ED7-12627A2A09F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaminoFactory", "KaminoFactory\KaminoFactory.csproj", "{B063AF6C-25F0-464F-9AC2-3743DB60E67E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LadyBugs", "LadyBugs\LadyBugs.csproj", "{942ACE26-A6AD-4ED2-AA60-3EE256D8D051}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\7.MaxSequenceOfEqualElements.csproj", "{656240FA-3E50-4F7E-817D-B13166D2552D}"
@@ -53,10 +51,6 @@ Global
 		{2691E15B-6652-4158-8ED7-12627A2A09F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2691E15B-6652-4158-8ED7-12627A2A09F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2691E15B-6652-4158-8ED7-12627A2A09F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B063AF6C-25F0-464F-9AC2-3743DB60E67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B063AF6C-25F0-464F-9AC2-3743DB60E67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B063AF6C-25F0-464F-9AC2-3743DB60E67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B063AF6C-25F0-464F-9AC2-3743DB60E67E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{942ACE26-A6AD-4ED2-AA60-3EE256D8D051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{942ACE26-A6AD-4ED2-AA60-3EE256D8D051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942ACE26-A6AD-4ED2-AA60-3EE256D8D051}.Release|Any CPU.ActiveCfg = Release|Any CPU
